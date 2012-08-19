@@ -1,0 +1,7 @@
+name: DropDelay
+main: me.JayzaSapphire.DropDelay
+author: JayzaSapphire
+version: 0.1
+permissions:
+  dropdelay.bypass:
+    default: op
